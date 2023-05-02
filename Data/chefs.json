@@ -6,7 +6,36 @@
     "years_of_experience": 40,
     "numbers_of_recipes": 3,
     "likes": 210,
-    "bio": "Tommy Miah is a renowned chef with over 40 years of experience in the culinary industry. He is known for his expertise in Bangladeshi cuisine and has authored several cookbooks. Tommy has also been awarded an MBE for his contribution to the food industry."
+    "bio": "Tommy Miah is a renowned chef with over 40 years of experience in the culinary industry. He is known for his expertise in Bangladeshi cuisine and has authored several cookbooks. Tommy has also been awarded an MBE for his contribution to the food industry.",
+    "recipes": [
+      {
+        "name": "Kacchi Biryani",
+        "image": "https://i.ibb.co/fkgzdRY/kacchi-bhai-kacchi-khadok-thumbnail-1649580256406.jpg",
+        "ingredients": ["Beef", "Potatoes", "Onion", "Basmati Rice", "Yogurt"],
+        "method": "1. Marinate beef in yogurt, garlic, ginger, chili powder, and turmeric for at least 2 hours. 2. Fry sliced potatoes until golden brown and set aside. 3. Fry sliced onions until golden brown and set aside. 4. In a pot, layer marinated beef, fried potatoes, fried onions, and soaked basmati rice. 5. Add water and cook over low heat until the rice is cooked through.",
+        "rating": 4.5
+      },
+      {
+        "name": "Chui Jhal",
+        "image": "https://i.ibb.co/KhFcjBk/chuijhal-diye-gorur-mangso.jpg",
+        "ingredients": [
+          "Fish",
+          "Onion",
+          "Tomato",
+          "Green Chilies",
+          "Mustard Oil"
+        ],
+        "method": "1. Heat mustard oil in a pan. 2. Fry sliced onions until golden brown. 3. Add sliced tomatoes and cook until softened. 4. Add chopped green chilies and fish to the pan. 5. Cook over low heat until the fish is cooked through.",
+        "rating": 4.0
+      },
+      {
+        "name": "Mejban",
+        "image": "https://i.ibb.co/jgVSXR7/evbf-hero.jpg",
+        "ingredients": ["Beef", "Onion", "Garlic", "Ginger", "Red Pepper"],
+        "method": "1. Marinate beef in garlic, ginger, red pepper, and salt for at least 2 hours. 2. Fry sliced onions until golden brown. 3. Add marinated beef to the pan and cook over low heat until the beef is cooked through.",
+        "rating": 3.5
+      }
+    ]
   },
   {
     "id": 2,
@@ -15,7 +44,36 @@
     "years_of_experience": 20,
     "numbers_of_recipes": 4,
     "likes": 323,
-    "bio": "Keka Ferdousi is a talented chef with 20 years of experience. She specializes in fusion cuisine, combining traditional Bangladeshi flavors with international influences. Keka has won numerous awards for her innovative cooking and is a popular television personality."
+    "bio": "Keka Ferdousi is a talented chef with 20 years of experience. She specializes in fusion cuisine, combining traditional Bangladeshi flavors with international influences. Keka has won numerous awards for her innovative cooking and is a popular television personality.",
+    "recipes": [
+      {
+        "name": "Kacchi Biryani",
+        "image": "https://i.ibb.co/fkgzdRY/kacchi-bhai-kacchi-khadok-thumbnail-1649580256406.jpg",
+        "ingredients": ["Beef", "Potatoes", "Onion", "Basmati Rice", "Yogurt"],
+        "method": "1. Marinate beef in yogurt, garlic, ginger, chili powder, and turmeric for at least 2 hours. 2. Fry sliced potatoes until golden brown and set aside. 3. Fry sliced onions until golden brown and set aside. 4. In a pot, layer marinated beef, fried potatoes, fried onions, and soaked basmati rice. 5. Add water and cook over low heat until the rice is cooked through.",
+        "rating": 4.5
+      },
+      {
+        "name": "Chui Jhal",
+        "image": "https://i.ibb.co/KhFcjBk/chuijhal-diye-gorur-mangso.jpg",
+        "ingredients": [
+          "Fish",
+          "Onion",
+          "Tomato",
+          "Green Chilies",
+          "Mustard Oil"
+        ],
+        "method": "1. Heat mustard oil in a pan. 2. Fry sliced onions until golden brown. 3. Add sliced tomatoes and cook until softened. 4. Add chopped green chilies and fish to the pan. 5. Cook over low heat until the fish is cooked through.",
+        "rating": 4.0
+      },
+      {
+        "name": "Mejban",
+        "image": "https://i.ibb.co/jgVSXR7/evbf-hero.jpg",
+        "ingredients": ["Beef", "Onion", "Garlic", "Ginger", "Red Pepper"],
+        "method": "1. Marinate beef in garlic, ginger, red pepper, and salt for at least 2 hours. 2. Fry sliced onions until golden brown. 3. Add marinated beef to the pan and cook over low heat until the beef is cooked through.",
+        "rating": 3.5
+      }
+    ]
   },
   {
     "id": 3,
@@ -24,7 +82,36 @@
     "years_of_experience": 25,
     "numbers_of_recipes": 3,
     "likes": 153,
-    "bio": "Aktar Islam is a well-known chef with 25 years of experience in the restaurant industry. He is the owner of several successful restaurants in the UK and is known for his contemporary take on classic Bangladeshi dishes. Aktar has appeared on several TV shows and has won numerous awards for his cooking."
+    "bio": "Aktar Islam is a well-known chef with 25 years of experience in the restaurant industry. He is the owner of several successful restaurants in the UK and is known for his contemporary take on classic Bangladeshi dishes. Aktar has appeared on several TV shows and has won numerous awards for his cooking.",
+    "recipes": [
+      {
+        "name": "Kacchi Biryani",
+        "image": "https://i.ibb.co/fkgzdRY/kacchi-bhai-kacchi-khadok-thumbnail-1649580256406.jpg",
+        "ingredients": ["Beef", "Potatoes", "Onion", "Basmati Rice", "Yogurt"],
+        "method": "1. Marinate beef in yogurt, garlic, ginger, chili powder, and turmeric for at least 2 hours. 2. Fry sliced potatoes until golden brown and set aside. 3. Fry sliced onions until golden brown and set aside. 4. In a pot, layer marinated beef, fried potatoes, fried onions, and soaked basmati rice. 5. Add water and cook over low heat until the rice is cooked through.",
+        "rating": 4.5
+      },
+      {
+        "name": "Chui Jhal",
+        "image": "https://i.ibb.co/KhFcjBk/chuijhal-diye-gorur-mangso.jpg",
+        "ingredients": [
+          "Fish",
+          "Onion",
+          "Tomato",
+          "Green Chilies",
+          "Mustard Oil"
+        ],
+        "method": "1. Heat mustard oil in a pan. 2. Fry sliced onions until golden brown. 3. Add sliced tomatoes and cook until softened. 4. Add chopped green chilies and fish to the pan. 5. Cook over low heat until the fish is cooked through.",
+        "rating": 4.0
+      },
+      {
+        "name": "Mejban",
+        "image": "https://i.ibb.co/jgVSXR7/evbf-hero.jpg",
+        "ingredients": ["Beef", "Onion", "Garlic", "Ginger", "Red Pepper"],
+        "method": "1. Marinate beef in garlic, ginger, red pepper, and salt for at least 2 hours. 2. Fry sliced onions until golden brown. 3. Add marinated beef to the pan and cook over low heat until the beef is cooked through.",
+        "rating": 3.5
+      }
+    ]
   },
   {
     "id": 4,
@@ -33,8 +120,36 @@
     "years_of_experience": 30,
     "numbers_of_recipes": 3,
     "likes": 325,
-    "bio": "Kamal Mouzder is an experienced chef with over 30 years of experience. He specializes in traditional Bangladeshi cuisine and is known for his expertise in seafood dishes. Kamal has worked in top restaurants around the world and has won several awards for his cooking."
-    
+    "bio": "Kamal Mouzder is an experienced chef with over 30 years of experience. He specializes in traditional Bangladeshi cuisine and is known for his expertise in seafood dishes. Kamal has worked in top restaurants around the world and has won several awards for his cooking.",
+    "recipes": [
+      {
+        "name": "Kacchi Biryani",
+        "image": "https://i.ibb.co/fkgzdRY/kacchi-bhai-kacchi-khadok-thumbnail-1649580256406.jpg",
+        "ingredients": ["Beef", "Potatoes", "Onion", "Basmati Rice", "Yogurt"],
+        "method": "1. Marinate beef in yogurt, garlic, ginger, chili powder, and turmeric for at least 2 hours. 2. Fry sliced potatoes until golden brown and set aside. 3. Fry sliced onions until golden brown and set aside. 4. In a pot, layer marinated beef, fried potatoes, fried onions, and soaked basmati rice. 5. Add water and cook over low heat until the rice is cooked through.",
+        "rating": 4.5
+      },
+      {
+        "name": "Chui Jhal",
+        "image": "https://i.ibb.co/KhFcjBk/chuijhal-diye-gorur-mangso.jpg",
+        "ingredients": [
+          "Fish",
+          "Onion",
+          "Tomato",
+          "Green Chilies",
+          "Mustard Oil"
+        ],
+        "method": "1. Heat mustard oil in a pan. 2. Fry sliced onions until golden brown. 3. Add sliced tomatoes and cook until softened. 4. Add chopped green chilies and fish to the pan. 5. Cook over low heat until the fish is cooked through.",
+        "rating": 4.0
+      },
+      {
+        "name": "Mejban",
+        "image": "https://i.ibb.co/jgVSXR7/evbf-hero.jpg",
+        "ingredients": ["Beef", "Onion", "Garlic", "Ginger", "Red Pepper"],
+        "method": "1. Marinate beef in garlic, ginger, red pepper, and salt for at least 2 hours. 2. Fry sliced onions until golden brown. 3. Add marinated beef to the pan and cook over low heat until the beef is cooked through.",
+        "rating": 3.5
+      }
+    ]
   },
   {
     "id": 5,
@@ -43,7 +158,36 @@
     "years_of_experience": 15,
     "numbers_of_recipes": 3,
     "likes": 154,
-    "bio": "Dil Afroz Sayda is a talented chef with 15 years of experience. She specializes in vegetarian and vegan cuisine, and is known for her innovative use of spices and herbs. Dil has won several awards for her cooking and is a popular blogger and food writer."
+    "bio": "Dil Afroz Sayda is a talented chef with 15 years of experience. She specializes in vegetarian and vegan cuisine, and is known for her innovative use of spices and herbs. Dil has won several awards for her cooking and is a popular blogger and food writer.",
+    "recipes": [
+      {
+        "name": "Kacchi Biryani",
+        "image": "https://i.ibb.co/fkgzdRY/kacchi-bhai-kacchi-khadok-thumbnail-1649580256406.jpg",
+        "ingredients": ["Beef", "Potatoes", "Onion", "Basmati Rice", "Yogurt"],
+        "method": "1. Marinate beef in yogurt, garlic, ginger, chili powder, and turmeric for at least 2 hours. 2. Fry sliced potatoes until golden brown and set aside. 3. Fry sliced onions until golden brown and set aside. 4. In a pot, layer marinated beef, fried potatoes, fried onions, and soaked basmati rice. 5. Add water and cook over low heat until the rice is cooked through.",
+        "rating": 4.5
+      },
+      {
+        "name": "Chui Jhal",
+        "image": "https://i.ibb.co/KhFcjBk/chuijhal-diye-gorur-mangso.jpg",
+        "ingredients": [
+          "Fish",
+          "Onion",
+          "Tomato",
+          "Green Chilies",
+          "Mustard Oil"
+        ],
+        "method": "1. Heat mustard oil in a pan. 2. Fry sliced onions until golden brown. 3. Add sliced tomatoes and cook until softened. 4. Add chopped green chilies and fish to the pan. 5. Cook over low heat until the fish is cooked through.",
+        "rating": 4.0
+      },
+      {
+        "name": "Mejban",
+        "image": "https://i.ibb.co/jgVSXR7/evbf-hero.jpg",
+        "ingredients": ["Beef", "Onion", "Garlic", "Ginger", "Red Pepper"],
+        "method": "1. Marinate beef in garlic, ginger, red pepper, and salt for at least 2 hours. 2. Fry sliced onions until golden brown. 3. Add marinated beef to the pan and cook over low heat until the beef is cooked through.",
+        "rating": 3.5
+      }
+    ]
   },
   {
     "id": 6,
@@ -52,6 +196,35 @@
     "years_of_experience": 18,
     "numbers_of_recipes": 3,
     "likes": 123,
-    "bio": "Nahid Ahmed is a professional chef with 18 years of experience in the culinary arts. He specializes in creating traditional dishes with a modern twist, and has won several awards for his innovative recipes. In his free time, Nahid enjoys experimenting with new ingredients and techniques to create exciting new dishes."
+    "bio": "Nahid Ahmed is a professional chef with 18 years of experience in the culinary arts. He specializes in creating traditional dishes with a modern twist, and has won several awards for his innovative recipes. In his free time, Nahid enjoys experimenting with new ingredients and techniques to create exciting new dishes.",
+    "recipes": [
+      {
+        "name": "Kacchi Biryani",
+        "image": "https://i.ibb.co/fkgzdRY/kacchi-bhai-kacchi-khadok-thumbnail-1649580256406.jpg",
+        "ingredients": ["Beef", "Potatoes", "Onion", "Basmati Rice", "Yogurt"],
+        "method": "1. Marinate beef in yogurt, garlic, ginger, chili powder, and turmeric for at least 2 hours. 2. Fry sliced potatoes until golden brown and set aside. 3. Fry sliced onions until golden brown and set aside. 4. In a pot, layer marinated beef, fried potatoes, fried onions, and soaked basmati rice. 5. Add water and cook over low heat until the rice is cooked through.",
+        "rating": 4.5
+      },
+      {
+        "name": "Chui Jhal",
+        "image": "https://i.ibb.co/KhFcjBk/chuijhal-diye-gorur-mangso.jpg",
+        "ingredients": [
+          "Fish",
+          "Onion",
+          "Tomato",
+          "Green Chilies",
+          "Mustard Oil"
+        ],
+        "method": "1. Heat mustard oil in a pan. 2. Fry sliced onions until golden brown. 3. Add sliced tomatoes and cook until softened. 4. Add chopped green chilies and fish to the pan. 5. Cook over low heat until the fish is cooked through.",
+        "rating": 4.0
+      },
+      {
+        "name": "Mejban",
+        "image": "https://i.ibb.co/jgVSXR7/evbf-hero.jpg",
+        "ingredients": ["Beef", "Onion", "Garlic", "Ginger", "Red Pepper"],
+        "method": "1. Marinate beef in garlic, ginger, red pepper, and salt for at least 2 hours. 2. Fry sliced onions until golden brown. 3. Add marinated beef to the pan and cook over low heat until the beef is cooked through.",
+        "rating": 3.5
+      }
+    ]
   }
 ]
