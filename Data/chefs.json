@@ -72,6 +72,13 @@
         "ingredients": ["Beef", "Onion", "Garlic", "Ginger", "Red Pepper"],
         "method": "1. Marinate beef in garlic, ginger, red pepper, and salt for at least 2 hours. 2. Fry sliced onions until golden brown. 3. Add marinated beef to the pan and cook over low heat until the beef is cooked through.",
         "rating": 3.5
+      },
+      {
+        "name": "Muri Ghonto",
+        "image": "https://i.ibb.co/FwJGhqq/muri-ghonto.jpg",
+        "ingredients": ["Fish", "Rice", "Onion", "Mustard Oil", "Ginger"],
+        "method": "Wash the rice and soak it in water for 15-20 minutes. Drain and keep aside. Clean the fish head and marinate it with salt and turmeric powder. Keep aside for 15-20 minutes. Heat mustard oil in a pan and fry the fish head until golden brown. Keep aside. In the same pan, add chopped onions and green chilies. Fry until the onions turn translucent. Add ginger paste and garlic paste. Fry until the raw smell goes away. Add cumin powder, coriander powder, turmeric powder, and red chili powder. Fry for a minute. Add the soaked rice and fry for 2-3 minutes. Add 2 cups of water and salt to taste. Mix well. Add the fried fish head and mix gently. Cover the pan and let it cook on low flame for 15-20 minutes or until the rice is cooked and the water is absorbed. Serve hot.",
+        "rating": 4.2
       }
     ]
   },
